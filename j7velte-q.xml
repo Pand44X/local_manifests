@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="sasi2006166/android_kernel_samsung_exynos7870-1" path="kernel/samsung/exynos7870" remote="github" revision="ten" />
+  <project name="sasi2006166-exynos7870/android_device_samsung_j7velte" path="device/samsung/j7velte" remote="github" revision="lineage-17.0" />
+  <project name="sasi2006166-exynos7870/android_vendor_samsung_j7velte" path="vendor/samsung/j7velte" remote="github" revision="lineage-17.0" />
+  <project name="Valera1978/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.0/>
+</manifest>
