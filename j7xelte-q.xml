@@ -6,7 +6,7 @@
     <project name="sasi2006166-exynos7870/android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="github" revision="crdroid-q" />
 
     <!-- Kernel -->
-    <project name="sasi2006166-exynos7870/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="aosp" />
+   # <project name="sasi2006166-exynos7870/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="aosp" />
 
     <!-- Vendor -->
     <project name="sasi2006166-exynos7870/android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="exynos7870" revision="common" />
